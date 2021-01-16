@@ -1,6 +1,19 @@
 # ChargingBull
 Created by tawtis#9000
 
+## General Division
+- Available Commands
+    - ban
+    - brokers
+    - cc
+    - clear
+    - clearchat
+    - help
+    - kick
+    - ping
+    - report
+    - whois
+
 ## Charting Division
 
 ### Stocks, Indices, and Equities - $
