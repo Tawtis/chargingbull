@@ -29,7 +29,8 @@ Created by tawtis#9000
         - `bb_20` 
         - `bb_50` 
         - `hilo`
-        When specifying numbers for an indicator, do not leave a space. For example. "ema 20" would become "ema20"
+ 
+When specifying numbers for an indicator, do not leave a space. For example. "ema 20" would become "ema20"
         
     - Chart Types
         - `candle`
