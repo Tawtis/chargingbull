@@ -3,16 +3,26 @@ Created by tawtis#9000
 
 ## General Division
 - Available Commands
-    - ban `ban user reason`
-    - brokers `brokers`
-    - cc `cc`
-    - clear `clear amount`
-    - clearchat `clearchat`
-    - help `help`
-    - kick `kick user reason`
-    - ping `ping`
-    - report `report user reason`
-    - whois `whois user`
+    - ban 
+        - (Mod only) Bans a user `ban user reason`
+    - brokers
+        - Shows a list of brokers recommended by the staff team `brokers`
+    - cc
+        - (Mod only) Wipes 1000 messages from a channel `cc`
+    - clear
+        - (Mod only) Clears set amount of messages from channel `clear amount`
+    - clearchat 
+        - (Mod only) Wipes 1000 messages from a channel `cc`
+    - help 
+        - Links to this page `help`
+    - kick
+        - (Mod only) Kicks a user `kick user reason`
+    - ping 
+        - Shows the bot's ping `ping`
+    - report 
+        - Sends staff a report about a user `report user reason`
+    - whois
+        - Shows information about a user `whois user`
 
 ## Charting Division
 
