@@ -46,7 +46,7 @@ When specifying numbers for an indicator, do not leave a space. For example. "em
 ### Futures - f$
 - [48 Futures / Commodities](https://elite.finviz.com/futures_charts.ashx)
 - Example:
-`$/es m`
+`f$es m`
 - Available Parameters
     - Time Intervals
         - `5` -> 5min
@@ -70,7 +70,7 @@ When specifying numbers for an indicator, do not leave a space. For example. "em
         - `d` -> Daily
         - `w` -> Weekly 
 
-### Forex - /
+### Forex - $
 - Currently supports [10 Currency Pairs](https://elite.finviz.com/forex_charts.ashx)
 - Example:
 `$usd/jpy w`
