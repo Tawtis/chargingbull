@@ -3,16 +3,16 @@ Created by tawtis#9000
 
 ## General Division
 - Available Commands
-    - ban
-    - brokers
-    - cc
-    - clear
-    - clearchat
-    - help
-    - kick
-    - ping
-    - report
-    - whois
+    - ban `ban user reason`
+    - brokers `brokers`
+    - cc `cc`
+    - clear `clear amount`
+    - clearchat `clearchat`
+    - help `help`
+    - kick `kick user reason`
+    - ping `ping`
+    - report `report user reason`
+    - whois `whois user`
 
 ## Charting Division
 
