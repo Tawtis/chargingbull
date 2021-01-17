@@ -49,8 +49,8 @@ Created by tawtis#9000
         - `ult` 
         - `wr` 
         - `ema` 
-        - `bb_20` 
-        - `bb_50` 
+        - `bb20` 
+        - `bb50` 
         - `hilo`
  
 When specifying numbers for an indicator, do not leave a space. For example. "ema 20" would become "ema20"
